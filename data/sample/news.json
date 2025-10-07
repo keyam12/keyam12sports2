@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "title": "Lakers Rally Past Celtics in Overtime Thriller",
+      "summary": "An incredible comeback led by a late three-pointer secures the win.",
+      "category": "basketball",
+      "source": "KEYAM AI",
+      "published": "Oct 5, 2025",
+      "type": "news"
+    },
+    {
+      "title": "Verstappen Dominates at Suzuka",
+      "summary": "A flawless race performance extends his championship lead.",
+      "category": "motorsports",
+      "source": "KEYAM AI",
+      "published": "Oct 5, 2025",
+      "type": "news"
+    },
+    {
+      "title": "Messi Nets Brace as Inter Miami Prevails",
+      "summary": "Late goals secure a memorable win for Inter Miami.",
+      "category": "soccer",
+      "source": "KEYAM AI",
+      "published": "Oct 5, 2025",
+      "type": "news"
+    },
+    {
+      "title": "The Rise of Santiana Gaines",
+      "summary": "A profile on the Caribbean icon \u2014 her rise, legacy, and impact.",
+      "category": "features",
+      "source": "KEYAM AI",
+      "published": "Oct 5, 2025",
+      "type": "feature",
+      "body": "Santiana Gaines rose through the islands to become a beloved figure..."
+    }
+  ]
+}

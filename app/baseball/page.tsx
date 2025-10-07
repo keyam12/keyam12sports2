@@ -1,0 +1,11 @@
+import NewsCard from '../../components/NewsCard'
+import sample from '../../data/sample/news.json'
+export default function Baseball() {
+  const bs = sample.articles.filter((a: any) => a.category === 'baseball')
+  return (
+    <div>
+      <h1 className="text-3xl font-bold mb-4">Baseball</h1>
+      <div className="space-y-4">{bs.map((a,i)=> <NewsCard key={i} article={a} />}</div>
+    </div>
+  )
+}

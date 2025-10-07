@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "league": "NBA",
+      "home": "LAL",
+      "away": "BOS",
+      "homeScore": 112,
+      "awayScore": 110,
+      "status": "Final"
+    },
+    {
+      "league": "EPL",
+      "home": "MUN",
+      "away": "LIV",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FT"
+    },
+    {
+      "league": "NFL",
+      "home": "KC",
+      "away": "BUF",
+      "homeScore": 28,
+      "awayScore": 24,
+      "status": "4Q"
+    }
+  ]
+}
